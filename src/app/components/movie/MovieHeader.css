@@ -1,0 +1,8 @@
+.movie-header {
+  display: flex;
+  padding: 0px 100px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #555555;
+  color: white;
+}

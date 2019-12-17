@@ -1,0 +1,23 @@
+.movie-list__items {
+  min-height: 200px;
+  padding-top: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #232323;
+}
+
+.movie-list__item {
+  width: 28%;
+  padding: 20px;
+}
+
+.movie-list__item a {
+  text-decoration: none;
+}
+
+.movie__info .movie-year {
+  border: none;
+}

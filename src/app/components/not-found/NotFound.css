@@ -1,0 +1,17 @@
+.not-found {
+  background-color: #232323;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.not-found h1 {
+  margin: auto;
+}
+
+.not-found + footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}

@@ -1,0 +1,13 @@
+.search__field {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+}
+
+.search__input {
+  width: 78%;
+}
+
+.search__button {
+  width: 20%;
+}

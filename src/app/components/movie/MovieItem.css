@@ -1,0 +1,11 @@
+.movie-item {
+  color: rgb(175, 174, 174);
+}
+
+.movie-item__title-year {
+  margin-top: 15px;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}

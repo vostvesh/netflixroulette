@@ -1,0 +1,16 @@
+.movie-vote {
+  width: 60px;
+  height: 60px;
+  padding: 4px;
+  border: 1px solid #4b4b4b;
+  border-radius: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.movie-vote span {
+  font-size: 22px;
+  font-weight: 100;
+  color: green;
+}

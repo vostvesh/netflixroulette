@@ -1,0 +1,9 @@
+.movie-year {
+  padding: 4px 14px;
+  border: 1px solid rgb(175, 174, 174);
+  border-radius: 4px;
+}
+
+.movie-year span:nth-child(2) {
+  color: #6b6b6b;
+}
